@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Ivar2.props" />
+</Project>
